@@ -13,6 +13,8 @@ The idea behind this list was to collect and group information about AWS re:Inve
 ## Sessions videos on Youtube
 http://aws-reinvent-audio.s3-website.us-east-2.amazonaws.com/2019/2019.html
 
+https://reinventvideos.com/ - videos from all re:Invent editions since 2012 (Thanks to my friend Francisco - https://twitter.com/franciscoed/status/1207779282740596736?s=20)
+
 ## Slide Decks
 https://aws.amazon.com/pt/events/events-content/?aws.filter-series=*all&awsm.page-cards=1
 
