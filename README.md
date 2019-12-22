@@ -5,7 +5,7 @@
 
 AWS re:Invent 2019 – Recap &amp; Resources Link Compilation
 
-The idea behind this list was to collect and group information about AWS re:Invent 2019 in a single place for futher reference. 
+The idea behind this list was to collect and group information about AWS re:Invent 2019 in a single place for further reference. 
 
 **Feel free to add more links and informations**. This is a working in progress "project"
 
